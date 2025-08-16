@@ -1,0 +1,5 @@
+__pycache__
+project/gemma-3-270m/finetune-model/
+project/gemma-3-270m/gemma_lora_finetuned/   
+project/gemma-3-270m/gemma-3-270m-it/
+project/LiquidAI:LFM2-VL-450M/lfm2-450m/
