@@ -1,0 +1,12 @@
+{
+    "model_name": "google/gemma-3-270m-it",
+    "dataset_path": "data/dataset.json",
+    "output_dir": "finetuned-gemma-cpu",
+    "num_train_epochs": 3,
+    "learning_rate": 2e-4,
+    "batch_size": 2,
+    "max_seq_length": 512,
+    "lora_r": 8,
+    "lora_alpha": 16,
+    "lora_dropout": 0.1
+}

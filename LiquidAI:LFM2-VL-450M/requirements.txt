@@ -1,0 +1,10 @@
+torch 
+torchvision 
+torchaudio
+transformers 
+accelerate 
+huggingface_hub 
+pillow
+streamlit
+uvicorn 
+fastapi

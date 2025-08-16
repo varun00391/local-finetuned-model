@@ -1,0 +1,11 @@
+torchvision
+accelerate
+huggingface_hub
+torch 
+transformers 
+sentencepiece 
+
+datasets 
+peft 
+# bitsandbytes
+

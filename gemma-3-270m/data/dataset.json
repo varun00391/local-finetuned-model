@@ -1,0 +1,12 @@
+[
+    {
+        "instruction": "Write a haiku about AI",
+        "input": "",
+        "output": "Thinking machines dream,\nSilent circuits hum at night,\nLogic blooms like spring."
+    },
+    {
+        "instruction": "Summarize the following text: 'Artificial intelligence is transforming industries...'",
+        "input": "",
+        "output": "AI is revolutionizing various industries."
+    }
+]
