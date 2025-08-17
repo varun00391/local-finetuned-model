@@ -2,7 +2,7 @@ from transformers import AutoTokenizer, AutoModelForCausalLM
 import torch
 
 # Path to the downloaded model folder
-model_path = "./gemma-3-270m-it"
+model_path = "./project/gemma-3-270m/gemma_lora_finetuned"
 
 # Load tokenizer
 tokenizer = AutoTokenizer.from_pretrained(model_path)
